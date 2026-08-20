@@ -1,0 +1,22 @@
+package start;
+
+import java.util.Scanner;
+
+public class Star02 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		// 숫자 입력 받기
+		System.out.print("숫자를 입력해주세요. : ");
+		int num = sc.nextInt();
+		
+		for (int i = num; i >= 0; i--) {
+			for (int j = 1; j <= i; j++) {
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+	}
+
+}
