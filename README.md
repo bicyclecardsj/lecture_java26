@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠 개발 환경 (Environment)
+## 🛠 개발 환경
 
 * **Language**: Java (JDK 8+)
 * **IDE**: Eclipse IDE
@@ -23,7 +23,7 @@
 
 ---
 
-## 📂 프로젝트 구조 (Project Structure)
+## 📂 저장소 구조
 
 ```text
 src/
